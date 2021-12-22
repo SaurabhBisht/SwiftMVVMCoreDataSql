@@ -1,0 +1,6 @@
+framework module Pods_MyAeroEvent_MyAeroEventUITests {
+  umbrella header "Pods-MyAeroEvent-MyAeroEventUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
